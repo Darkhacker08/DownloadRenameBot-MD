@@ -36,7 +36,7 @@ class MyEventHandler extends \danog\MadelineProto\EventHandler
     /**
      * @var int|string Username or ID of bot admin
      */
-    const ADMIN = 'var_export'; // Change this
+    const ADMIN = 'benchamxd'; // Change this
 
     /**
      * Get peer(s) where to report errors.
